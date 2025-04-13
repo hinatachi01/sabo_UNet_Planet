@@ -49,12 +49,12 @@
 ## 📁 ディレクトリ構成 / Dataset Structure
 
 - dataset/
--- train/     
----images/
----masks/             
---val/               
----images/
----masks/
---test/
----images/
----masks/
+- - train/     
+- - -images/
+- - -masks/             
+- -val/               
+- - -images/
+- - -masks/
+- -test/
+- - -images/
+- - -masks/
