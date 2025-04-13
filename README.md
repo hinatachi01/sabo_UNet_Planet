@@ -11,6 +11,12 @@
 
 ---
 
+unet_trial_??.py      # U-Netの基本構造の定義と学習処理、モデル出力
+unet_model_??.h5      # 出力したモデル
+unet_validation_??.py      # 学習済みモデルで未学習画像を予測
+
+---
+
 ## 使用データ / Data Used
 
 ### 特徴量作成用
