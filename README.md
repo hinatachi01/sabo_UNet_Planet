@@ -28,11 +28,11 @@ model_2:
 ## datasetディレクトリの構成
 dataset
  - test
- -   images
- -   masks
+ - -  images
+ - -  masks
  - val
- -   images
- -   masks
+ - -  images
+ - -  masks
  - test
- -   images
- -   masks
+ - -  images
+ - -  masks
