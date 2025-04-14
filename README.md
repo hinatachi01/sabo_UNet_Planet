@@ -16,18 +16,7 @@
 |-----|-----|-----|-----|-----|-----|
 | 無印 | Planet 4バンド | | | | エラーで動かず |
 | 02 | Planet 4バンド (正規化なし) |崩壊地:非崩壊地 = **2:8** を超える偏りのあるタイルは除外| | | 動いた (精度はまだまだ) |
-| 03 | Planet 4バンド (10,000で除算し正規化) |崩壊地:非崩壊地 = **2:8** を超える偏りのあるタイルは除外| | Epoch 1/10
-63/63 ━━━━━━━━━━━━━━━━━━━━ 76s 1s/step - accuracy: 0.5626 - loss: 2.3935 - val_accuracy: 0.6989 - val_loss: 0.6538
-Epoch 2/10
-63/63 ━━━━━━━━━━━━━━━━━━━━ 72s 1s/step - accuracy: 0.6272 - loss: 1.9445 - val_accuracy: 0.6989 - val_loss: 0.6800
-Epoch 3/10
-63/63 ━━━━━━━━━━━━━━━━━━━━ 80s 1s/step - accuracy: 0.6271 - loss: 1.2839 - val_accuracy: 0.6989 - val_loss: 0.7873
-Epoch 4/10
-63/63 ━━━━━━━━━━━━━━━━━━━━ 68s 1s/step - accuracy: 0.6201 - loss: 1.2594 - val_accuracy: 0.6989 - val_loss: 0.7919
-Epoch 5/10
-63/63 ━━━━━━━━━━━━━━━━━━━━ 64s 1s/step - accuracy: 0.6196 - loss: 1.2598 - val_accuracy: 0.6989 - val_loss: 0.8027
-Epoch 6/10
-63/63 ━━━━━━━━━━━━━━━━━━━━ 80s 1s/step - accuracy: 0.6262 - loss: 1.2418 - val_accuracy: 0.6989 - val_loss: 0.7909 | |
+| 03 | Planet 4バンド (10,000で除算し正規化) |崩壊地:非崩壊地 = **2:8** を超える偏りのあるタイルは除外| | Epoch 1/10 - accuracy: 0.5626 - loss: 2.3935 - val_accuracy: 0.6989 - val_loss: 0.6538 Epoch 6/10 - accuracy: 0.6262 - loss: 1.2418 - val_accuracy: 0.6989 - val_loss: 0.7909 | |
 
 ---
 
