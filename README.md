@@ -53,7 +53,7 @@
   - train/     
     - images/
     - masks/
-  -val/               
+  - val/               
     - images/
     - masks/
   - test/
