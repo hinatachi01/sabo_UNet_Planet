@@ -12,7 +12,7 @@
 ---
 ## スクリプト / Script
 
-| unet_trial_??.py | unet_model_??.h5 | unet_validation_??.py |
+| ① unet_trial_番号.py | ② unet_model_番号.h5 | ③ unet_validation_番号.py |
 |-----|-----|-----|
 | U-Netモデルの定義、学習、モデル出力 | 出力されたモデル | 未学習画像によるモデルの検証 |
 
