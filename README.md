@@ -18,9 +18,9 @@
 
 | 番号 | 特徴量 | 学習枚数 | 評価 | 
 |-----|-----|-----|-----|
-| 無印 | Planet 4バンド | | |
-| 02 | Planet 4バンド | | |
-|03 | Planet 4バンド, NDVI, NDWI, NDRI, DEM, Slope | | |
+| 無印 | Planet 4バンド | | エラーで動かず |
+| 02 | Planet 4バンド | | 動いた (精度はまだまだ) |
+|03 | Planet 4バンド, NDVI, NDWI, NDRI, DEM, Slope | | これから |
 
 ---
 
