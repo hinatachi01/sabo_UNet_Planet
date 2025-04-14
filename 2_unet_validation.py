@@ -10,7 +10,7 @@ output_dir = '/media/hina/AE60-1503/sabo_UNet_Planet_trial02/predict_masks_2/'
 os.makedirs(output_dir, exist_ok=True)
 
 # 学習済みモデルの読み込み
-model = load_model('unet_model_2.h5')
+model = load_model('2_unet_model.h5')
 
 # 画像読み込みと予測
 for img_path in glob.glob(os.path.join(input_dir, '*.tif')):
